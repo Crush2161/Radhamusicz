@@ -35,7 +35,7 @@ opencv-python
 pickledb
 pillow==10.3.0
 psutil
-pytgcalls==0.0.19  # या जो वर्शन उस समय सही था
+pytgcalls==2.0.0  # Updated version
 pycountry
 pycryptodome
 pydub

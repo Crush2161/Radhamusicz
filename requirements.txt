@@ -35,8 +35,7 @@ opencv-python
 pickledb
 pillow==10.3.0
 psutil
-ntgcalls
-py-tgcalls
+pytgcalls==0.0.24
 pycountry
 pycryptodome
 pydub

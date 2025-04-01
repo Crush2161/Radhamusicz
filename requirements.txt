@@ -35,7 +35,7 @@ opencv-python
 pickledb
 pillow==10.3.0
 psutil
-git+https://github.com/pytgcalls/pytgcalls.git  # Use the latest version from GitHub
+pytgcalls==0.0.19  # या जो वर्शन उस समय सही था
 pycountry
 pycryptodome
 pydub
